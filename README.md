@@ -8,7 +8,7 @@ Data Scientist focused on machine learning systems, data platforms, and AI infra
 
 This portfolio demonstrates the lifecycle of a production machine learning system.
 
-![ML Lifecycle](ml_lifecycle.png)
+![ML Lifecycle](ml_lifecycle_.png)
 
 ---
 
