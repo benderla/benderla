@@ -23,6 +23,13 @@ Technical Program Manager and Data Scientist building machine learning systems, 
 
 This portfolio demonstrates the lifecycle of building, deploying, and monitoring a production machine learning system.
 
+The lifecycle includes:
+• data preparation and feature engineering
+• model training and evaluation
+• deployment to production
+• monitoring for model drift
+• retraining when performance degrades
+
 ---
 
 ## Core Skills
