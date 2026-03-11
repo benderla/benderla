@@ -1,6 +1,6 @@
 # Lee Bender
 
-Data Scientist focused on machine learning systems, data platforms, and AI infrastructure.
+Technical Program Manager and Data Scientist focused on machine learning systems, data platforms, and AI infrastructure.
 
 ---
 
