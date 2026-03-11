@@ -6,6 +6,18 @@ Data Scientist focused on machine learning systems, data platforms, and AI infra
 
 ![ML Lifecycle](ml_lifecycle.png)
 
+---
+
+## Skills Demonstrated
+
+• machine learning pipelines  
+• anomaly detection modeling  
+• ML system architecture  
+• production monitoring and drift detection  
+• technical program management
+
+---
+
 ## Machine Learning System Portfolio
 
 This portfolio demonstrates the lifecycle of a production machine learning system.
