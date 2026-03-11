@@ -1,16 +1,31 @@
-## Hi there 👋
+# Lee Bender
 
-<!--
-**benderla/benderla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist focused on machine learning systems, data platforms, and AI infrastructure.
 
-Here are some ideas to get you started:
+## Machine Learning System Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This portfolio demonstrates the lifecycle of a production machine learning system.
+
+---
+
+### Model Development
+
+network-attack-detection
+
+Machine learning anomaly detection for identifying suspicious network traffic using the CIC-IDS2017 dataset.
+
+---
+
+### System Architecture
+
+ml-anomaly-detection-system-launch
+
+Architecture and program plan for launching a production ML anomaly detection system.
+
+---
+
+### Production Monitoring
+
+ml-model-monitoring
+
+Framework for detecting data drift and monitoring production ML model health.
