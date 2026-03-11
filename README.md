@@ -17,17 +17,11 @@ Technical Program Manager and Data Scientist building machine learning systems, 
 
 ---
 
-## ML Platform Architecture
-
-![ML Platform Architecture](ml_platform_architecturev2.png)
-
-This portfolio demonstrates the lifecycle of building, deploying, and monitoring a production machine learning system.
-
----
-
 ## Machine Learning Lifecycle
 
-![ML Lifecycle](ml_lifecycle.png)
+![ML Lifecycle](ml_lifecyclev2.png)
+
+This portfolio demonstrates the lifecycle of building, deploying, and monitoring a production machine learning system.
 
 ---
 
