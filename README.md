@@ -19,7 +19,7 @@ Technical Program Manager and Data Scientist building machine learning systems, 
 
 ## Machine Learning Lifecycle
 
-![ML Lifecycle](ml_lifecyclev2.png)
+![ML Lifecycle](ml_lifecyclev3.png)
 
 This portfolio demonstrates the lifecycle of building, deploying, and monitoring a production machine learning system.
 
