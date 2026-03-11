@@ -4,6 +4,12 @@ Data Scientist focused on machine learning systems, data platforms, and AI infra
 
 ---
 
+## ML Platform Architecture
+
+![ML Platform Architecture](ml_platform_architecture.png)
+
+---
+
 ## Machine Learning Lifecycle
 
 This portfolio demonstrates the lifecycle of a production machine learning system.
