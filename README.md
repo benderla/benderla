@@ -1,8 +1,9 @@
 # Lee Bender
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benderla&show_icons=true)
 
 Machine Learning | Data Science | AI Systems
 
-Technical Program Manager and Data Scientist focused on machine learning systems, data platforms, and AI infrastructure.
+Technical Program Manager and Data Scientist building machine learning systems, data platforms, and AI infrastructure.
 
 ---
 
@@ -18,7 +19,7 @@ Technical Program Manager and Data Scientist focused on machine learning systems
 
 ## ML Platform Architecture
 
-![ML Platform Architecture](ml_life.png)
+![ML Platform Architecture](ml_platform_architecture.png)
 
 This portfolio demonstrates the lifecycle of building, deploying, and monitoring a production machine learning system.
 
@@ -28,47 +29,18 @@ This portfolio demonstrates the lifecycle of building, deploying, and monitoring
 
 ![ML Lifecycle](ml_lifecycle.png)
 
-
-## Machine Learning System Portfolio
-
-This portfolio demonstrates the lifecycle of a production machine learning system.
-
----
-
-### Model Development
-
-[network-attack-detection](https://github.com/benderla/network-attack-detection)
-
-Machine learning anomaly detection for identifying suspicious network traffic using the CIC-IDS2017 dataset.
-
----
-
-### System Architecture
-
-[ml-anomaly-detection-system-launch](https://github.com/benderla/ml-anomaly-detection-system-launch)
-
-Architecture and program plan for launching a production ML anomaly detection system.
-
----
-
-### Production Monitoring
-
-[ml-model-monitoring](https://github.com/benderla/ml-model-monitoring)
-
-Framework for detecting data drift and monitoring production ML model health.
-
 ---
 
 ## Core Skills
 
-Machine Learning  
-Python • Scikit-learn • Pandas • NumPy  
+Machine Learning
+Python • Scikit-learn • Pandas • NumPy
 
-Data Engineering  
-SQL • Feature Engineering • Data Pipelines  
+Data Engineering
+SQL • Feature Engineering • Data Pipelines
 
-ML Operations  
-Model Monitoring • Drift Detection • Experiment Tracking
+ML Systems
+Model Monitoring • Drift Detection • ML Lifecycle
 
 ## Skills Demonstrated
 
