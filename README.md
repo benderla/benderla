@@ -12,14 +12,6 @@ This portfolio demonstrates the lifecycle of building, deploying, and monitoring
 
 ---
 
-## Machine Learning Lifecycle
-
-This portfolio demonstrates the lifecycle of a production machine learning system.
-
-![ML Lifecycle](ml_lifecycle_.png)
-
----
-
 ## Machine Learning System Portfolio
 
 This portfolio demonstrates the lifecycle of a production machine learning system.
