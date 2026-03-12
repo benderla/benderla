@@ -2,7 +2,7 @@
 
 Machine Learning | Data Science | AI Systems | Cybersecurity Analytics
 
-Technical Program Manager and Data Scientist building machine learning systems, data platforms, and AI infrastructure.
+Technical Program Manager and Data Scientist building machine learning systems and AI infrastructure.
 
 End-to-end anomaly detection system for network traffic:
 data → model → deployment architecture → monitoring
