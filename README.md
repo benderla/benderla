@@ -56,4 +56,4 @@ Model Monitoring • Drift Detection • ML Lifecycle
 
 ## Author
 
-LinkedIn: https://linkedin.com/leroy_mccoy/
+LinkedIn: [https://linkedin.com/leroy_mccoy/](https://www.linkedin.com/in/leroymccoy/)
