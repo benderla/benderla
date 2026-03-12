@@ -12,7 +12,7 @@ Technical Program Manager and Data Scientist building machine learning systems, 
 | Project | Description | Tools |
 |-------|-------------|------|
 | [Network Attack Detection](https://github.com/benderla/network-attack-detection) | Detect anomalous network traffic using Isolation Forest | Python, Scikit-learn |
-| [ML Anomaly Detection System](https://github.com/benderla/ml-anomaly-detection-system-launch) | End-to-end ML lifecycle from data ingestion to monitoring | Tools: Python, pandas, Scikit-learn, Git, Jupyter |
+| [ML Anomaly Detection System](https://github.com/benderla/ml-anomaly-detection-system-launch) | End-to-end ML lifecycle from data ingestion to monitoring | Python, pandas, Scikit-learn, Git, Jupyter |
 | [Model Monitoring](https://github.com/benderla/ml-model-monitoring) | Detect anomaly score drift and production data distribution changes | Python, Monitoring |
 
 ---
