@@ -1,9 +1,13 @@
 # Lee Bender
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benderla&show_icons=true)
 
-Machine Learning | Data Science | AI Systems
+Machine Learning | Data Science | AI Systems | Cybersecurity Analytics
 
 Technical Program Manager and Data Scientist building machine learning systems, data platforms, and AI infrastructure.
+
+End-to-end anomaly detection system for network traffic:
+data → model → deployment architecture → monitoring
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benderla&show_icons=true)
 
 ---
 
