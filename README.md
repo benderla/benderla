@@ -54,6 +54,21 @@ Production Monitoring
 
 ---
 
+### Repository Mapping
+
+This portfolio is organized to demonstrate stages of the machine learning lifecycle:
+
+Model Development  
+→ network-attack-detection
+
+Deployment Architecture  
+→ ml-anomaly-detection-system-launch
+
+Production Monitoring  
+→ ml-model-monitoring
+
+---
+
 ## Core Skills
 
 Machine Learning
