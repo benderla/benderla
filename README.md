@@ -12,8 +12,8 @@ Technical Program Manager and Data Scientist building machine learning systems, 
 | Project | Description | Tools |
 |-------|-------------|------|
 | [Network Attack Detection](https://github.com/benderla/network-attack-detection) | Detect anomalous network traffic using Isolation Forest | Python, Scikit-learn |
-| [ML Anomaly Detection System](https://github.com/benderla/ml-anomaly-detection-system-launch) | End-to-end ML lifecycle from data ingestion to monitoring | Python, Pandas, ML Ops |
-| [Model Monitoring](https://github.com/benderla/ml-model-monitoring) | Detect model drift and production anomalies | Python, Monitoring |
+| [ML Anomaly Detection System](https://github.com/benderla/ml-anomaly-detection-system-launch) | End-to-end ML lifecycle from data ingestion to monitoring | Tools: Python, pandas, Scikit-learn, Git, Jupyter |
+| [Model Monitoring](https://github.com/benderla/ml-model-monitoring) | Detect anomaly score drift and production data distribution changes | Python, Monitoring |
 
 ---
 
@@ -21,7 +21,7 @@ Technical Program Manager and Data Scientist building machine learning systems, 
 
 ![ML Lifecycle](ml_lifecyclev3.png)
 
-This portfolio demonstrates the lifecycle of building, deploying, and monitoring a production machine learning system.
+This portfolio demonstrates an end-to-end anomaly detection system for cybersecurity network traffic using the CIC-IDS2017 dataset.
 
 The lifecycle includes:
 • data preparation and feature engineering
