@@ -34,18 +34,23 @@ Technical Program Manager and Data Scientist building machine learning systems, 
 
 ---
 
-## Machine Learning Lifecycle
+## Lifecycle Implementation
 
 ![ML Lifecycle](ml_lifecyclev3.png)
 
-This portfolio demonstrates an end-to-end anomaly detection system for cybersecurity network traffic using the CIC-IDS2017 dataset.
+The repositories in this portfolio represent stages of the ML lifecycle:
 
-The lifecycle includes:
-• data preparation and feature engineering
-• model training and evaluation
-• deployment to production
-• monitoring for model drift
-• retraining when performance degrades
+Data Preparation & Feature Engineering  
+→ network-attack-detection
+
+Model Development & Evaluation  
+→ network-attack-detection
+
+Deployment Architecture  
+→ ml-anomaly-detection-system-launch
+
+Production Monitoring  
+→ ml-model-monitoring
 
 ---
 
