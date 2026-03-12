@@ -38,6 +38,19 @@ data → model → deployment architecture → monitoring
 
 ---
 
+## Key Projects
+
+• **Network Attack Detection**  
+Isolation Forest anomaly detection model for identifying suspicious network traffic patterns.
+
+• **ML Anomaly Detection System Launch**  
+System architecture for deploying anomaly detection models in production environments.
+
+• **ML Model Monitoring**  
+Monitoring and drift detection workflows for maintaining ML model performance.
+
+---
+
 ## Lifecycle Implementation
 
 ![ML Lifecycle](ml_lifecyclev3.png)
