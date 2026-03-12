@@ -7,6 +7,23 @@ Technical Program Manager and Data Scientist building machine learning systems, 
 
 ---
 
+## Featured Projects
+
+🔍 **Network Attack Detection**
+- Isolation Forest anomaly detection model trained on CIC-IDS2017 network traffic data
+- Feature engineering and anomaly scoring using Python and pandas
+- Model evaluation using precision and recall metrics
+
+🚀 **ML Anomaly Detection System**
+- Architecture for deploying anomaly detection models in production environments
+- Covers data ingestion, model inference, and monitoring workflows
+
+📈 **Model Monitoring**
+- Detect anomaly score drift and production data distribution changes
+- Monitoring workflows for maintaining ML model performance
+
+---
+
 ## Machine Learning Portfolio
 
 | Project | Description | Tools |
