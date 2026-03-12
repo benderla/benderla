@@ -56,6 +56,22 @@ Production Monitoring
 
 ### System Overview
 
+The repositories in this portfolio demonstrate an end-to-end anomaly detection workflow for cybersecurity network traffic.
+
+```
+Network Traffic Data
+        ↓
+Feature Engineering
+        ↓
+Isolation Forest Model
+        ↓
+Anomaly Detection
+        ↓
+Model Monitoring
+```
+
+This pipeline shows how network flow data is transformed into features, evaluated by an anomaly detection model, and monitored in production environments for unusual traffic patterns.
+
 This portfolio demonstrates an anomaly detection system for cybersecurity network monitoring.
 
 System flow:
