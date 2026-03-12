@@ -54,6 +54,20 @@ Production Monitoring
 
 ---
 
+### System Overview
+
+This portfolio demonstrates an anomaly detection system for cybersecurity network monitoring.
+
+System flow:
+
+Network Traffic Data  
+→ Feature Engineering  
+→ Isolation Forest Model  
+→ Anomaly Detection  
+→ Model Monitoring
+
+---
+
 ### Repository Mapping
 
 This portfolio is organized to demonstrate stages of the machine learning lifecycle:
