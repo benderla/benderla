@@ -41,15 +41,15 @@ These repositories together demonstrate the lifecycle of a machine learning syst
 
 Data ingestion → feature engineering → model training → model evaluation → deployment architecture → monitoring
 
-These repositories demonstrate the full lifecycle of a machine learning system from model development to production monitoring. Repositories mapped to lifecycle stages:
+Lifecycle stages represented by each repository:
 
-• network-attack-detection  
+• network-attack-detection
   Data preparation, feature engineering, anomaly detection modeling, evaluation
 
-• ml-anomaly-detection-system-launch  
+• ml-anomaly-detection-system-launch
   Deployment planning and ML system architecture
 
-• ml-model-monitoring  
+• ml-model-monitoring
   Monitoring model performance and detecting drift in production systems
 
 ---
