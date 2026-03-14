@@ -43,13 +43,13 @@ Data ingestion → feature engineering → model training → model evaluation �
 
 Lifecycle stages represented by each repository:
 
-• network-attack-detection  
+• [network-attack-detection](https://github.com/benderla/network-attack-detection)  
   Data preparation, feature engineering, anomaly detection modeling, and evaluation
 
-• ml-anomaly-detection-system-launch  
+• [ml-anomaly-detection-system-launch](https://github.com/benderla/ml-anomaly-detection-system-launch)  
   Deployment planning and machine learning system architecture
 
-• ml-model-monitoring  
+• [ml-model-monitoring](https://github.com/benderla/ml-model-monitoring)  
   Monitoring model performance and detecting drift in production systems
 
 ---
