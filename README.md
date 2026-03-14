@@ -17,6 +17,24 @@ data → model → deployment architecture → monitoring
 
 ---
 
+## Technical Program Management Projects
+
+Example programs demonstrating how machine learning systems move from experimentation to production deployment.
+
+### ML System Launch Program
+Program structure for deploying an ML anomaly detection system.
+
+Key elements
+• ML lifecycle planning  
+• deployment readiness checklist  
+• monitoring and retraining strategy  
+• cross-team coordination across data science, engineering, and security teams
+
+Repo
+https://github.com/benderla/ml-anomaly-detection-system-launch
+
+---
+
 ## Featured Projects
 
 🔍 **Network Attack Detection**
