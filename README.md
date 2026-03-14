@@ -43,13 +43,13 @@ Data ingestion → feature engineering → model training → model evaluation �
 
 Lifecycle stages represented by each repository:
 
-• network-attack-detection
-  Data preparation, feature engineering, anomaly detection modeling, evaluation
+• network-attack-detection  
+  Data preparation, feature engineering, anomaly detection modeling, and evaluation
 
-• ml-anomaly-detection-system-launch
-  Deployment planning and ML system architecture
+• ml-anomaly-detection-system-launch  
+  Deployment planning and machine learning system architecture
 
-• ml-model-monitoring
+• ml-model-monitoring  
   Monitoring model performance and detecting drift in production systems
 
 ---
