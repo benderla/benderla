@@ -35,6 +35,25 @@ https://github.com/benderla/ml-anomaly-detection-system-launch
 
 ---
 
+## Machine Learning Lifecycle
+
+These repositories together demonstrate the lifecycle of a machine learning system:
+
+Data ingestion → feature engineering → model training → model evaluation → deployment architecture → monitoring
+
+Repositories mapped to lifecycle stages:
+
+• network-attack-detection  
+  Data preparation, feature engineering, anomaly detection modeling, evaluation
+
+• ml-anomaly-detection-system-launch  
+  Deployment planning and ML system architecture
+
+• ml-model-monitoring  
+  Monitoring model performance and detecting drift in production systems
+
+---
+
 ## Featured Projects
 
 🔍 **Network Attack Detection**
