@@ -2,7 +2,11 @@
 
 Machine Learning | Data Science | AI Systems | Cybersecurity Analytics
 
-Technical Program Manager and Data Scientist building machine learning systems and AI infrastructure.
+Technical Program Manager and Data Science practitioner focused on machine learning systems, cyber analytics, and ML platform delivery.
+
+I build machine learning models and manage the programs that bring them into production systems.
+
+## Data Science Projects
 
 End-to-end anomaly detection system for network traffic:
 data → model → deployment architecture → monitoring
