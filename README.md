@@ -6,6 +6,8 @@ Technical Program Manager and Data Science practitioner focused on machine learn
 
 I build machine learning models and manage the programs that bring them into production systems.
 
+---
+
 ## Data Science Projects
 
 End-to-end anomaly detection system for network traffic:
