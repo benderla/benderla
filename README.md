@@ -8,6 +8,22 @@ I build machine learning models and manage the programs that bring them into pro
 
 ---
 
+## Top-level Architecture
+
+CIC IDS Dataset
+      ↓
+Feature Engineering
+      ↓
+Model Training (network-attack-detection)
+      ↓
+Deployment API (ml-anomaly-detection-system-launch)
+      ↓
+Monitoring (ml-model-monitoring)
+      ↓
+Platform Architecture (ml-platform-architecture)
+
+---
+
 ## Data Science Projects
 
 End-to-end anomaly detection system for network traffic:
