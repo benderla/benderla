@@ -1,202 +1,104 @@
 # Lee Bender
 
-Machine Learning | Data Science | AI Systems | Cybersecurity Analytics
+Data Science, AI/ML Platform, and Technical Program Management portfolio.
 
-Technical Program Manager and Data Science practitioner focused on machine learning systems, cyber analytics, and ML platform delivery.
+My work is focused on three areas:
+- building and evaluating ML systems
+- thinking through monitoring and operational ownership
+- translating technical work into launch-ready plans
 
-I build machine learning models and manage the programs that bring them into production systems.
+This portfolio is intentionally structured to show both hands-on technical work and system-level thinking.
 
----
+## Start Here
 
-## Top-level Architecture
+If you only look at one repo, start with:
+- [network-attack-detection](https://github.com/benderla/network-attack-detection)
 
-CIC IDS Dataset
-      ↓
-Feature Engineering
-      ↓
-Model Training (network-attack-detection)
-      ↓
-Deployment API (ml-anomaly-detection-system-launch)
-      ↓
-Monitoring (ml-model-monitoring)
-      ↓
-Platform Architecture (ml-platform-architecture)
+Then use these based on role:
+- Data Science: [network-attack-detection](https://github.com/benderla/network-attack-detection)
+- AI/ML Platform: [ml-model-monitoring](https://github.com/benderla/ml-model-monitoring)
+- TPM: [ml-anomaly-detection-system-launch](https://github.com/benderla/ml-anomaly-detection-system-launch)
 
----
+## Portfolio Map
 
-## Data Science Projects
+| Repo | Purpose | What is implemented | What is conceptual | Best use in interviews |
+|---|---|---|---|---|
+| [network-attack-detection](https://github.com/benderla/network-attack-detection) | Anomaly detection project using network traffic data | Data prep, feature engineering, model training, evaluation, API layer, Docker, tests, experiment artifacts | Limited production hardening | Data Science, ML fundamentals, model evaluation |
+| [ml-model-monitoring](https://github.com/benderla/ml-model-monitoring) | Monitoring approach for ML systems after deployment | Drift detection examples, monitoring concepts, alerting workflow | Full production monitoring stack | AI/ML Platform, reliability, operational thinking |
+| [ml-anomaly-detection-system-launch](https://github.com/benderla/ml-anomaly-detection-system-launch) | TPM-style launch planning for an ML system | Planning structure, launch framing, delivery artifacts | Full implementation and live deployment | TPM, cross-functional delivery, launch management |
+| [ml-platform-architecture](https://github.com/benderla/ml-platform-architecture) | Reserved for future platform architecture work | None today | Platform architecture artifacts | Not a primary repo today |
 
-End-to-end anomaly detection system for network traffic:
-data → model → deployment architecture → monitoring
+## What This Portfolio Proves
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benderla&show_icons=true)
+### Data Science
+- feature engineering and data preparation
+- anomaly detection using network traffic data
+- model evaluation and threshold tuning
+- practical tradeoffs between precision, recall, and false positives
 
----
+### AI/ML Platform
+- monitoring concepts for deployed ML systems
+- data drift and alerting patterns
+- operational ownership after model release
+- system-level thinking beyond notebook-only work
 
-## Technical Program Management Projects
+### Technical Program Management
+- launch planning for ML systems
+- dependency and risk thinking
+- coordination across technical and non-technical functions
+- translating technical work into execution structure
 
-Example programs demonstrating how machine learning systems move from experimentation to production deployment.
+## What Is Real vs. What Is Conceptual
 
-### ML System Launch Program
-Program structure for deploying an ML anomaly detection system.
+Implemented today:
+- a working anomaly detection project with code, evaluation, API, and documentation
+- monitoring examples and incident-thinking artifacts
+- launch planning structure for an ML system
 
-Key elements
-• ML lifecycle planning  
-• deployment readiness checklist  
-• monitoring and retraining strategy  
-• cross-team coordination across data science, engineering, and security teams
+Conceptual or partial today:
+- full production deployment at scale
+- complete platform architecture implementation
+- enterprise-grade orchestration and observability
 
-Repo
-https://github.com/benderla/ml-anomaly-detection-system-launch
+I keep that distinction explicit because I would rather be clear than overclaim.
 
----
+## Best Questions These Repos Help Me Answer
 
-## Machine Learning Lifecycle
+- How did you choose and evaluate a model?
+- What would you monitor after deployment?
+- How would you detect drift or model degradation?
+- How would you launch this system across multiple teams?
+- Where is the line between implemented work and design work?
 
-These repositories together demonstrate the lifecycle of a machine learning system:
+## Repositories
 
-Data ingestion → feature engineering → model training → model evaluation → deployment architecture → monitoring
+### [network-attack-detection](https://github.com/benderla/network-attack-detection)
+Best repo for technical depth.
+- anomaly detection using the CIC-IDS2017 dataset
+- feature engineering, model evaluation, threshold tuning
+- API layer and Docker support
+- strongest repo for technical interviews
 
-Lifecycle stages represented by each repository:
+### [ml-model-monitoring](https://github.com/benderla/ml-model-monitoring)
+Best repo for AI/ML platform discussions.
+- monitoring concepts for deployed ML systems
+- drift detection and alerting examples
+- useful for conversations about post-deployment ownership
 
-• [network-attack-detection](https://github.com/benderla/network-attack-detection)  
-  Data preparation, feature engineering, anomaly detection modeling, and evaluation
+### [ml-anomaly-detection-system-launch](https://github.com/benderla/ml-anomaly-detection-system-launch)
+Best repo for TPM discussions.
+- ML system launch framing
+- program structure, risks, and execution planning
+- useful for cross-functional delivery discussions
 
-• [ml-anomaly-detection-system-launch](https://github.com/benderla/ml-anomaly-detection-system-launch)  
-  Deployment planning and machine learning system architecture
+## What This Portfolio Is Not
 
-• [ml-model-monitoring](https://github.com/benderla/ml-model-monitoring)  
-  Monitoring model performance and detecting drift in production systems
+- not a claim of a production-scale ML platform
+- not a large distributed system running in a live enterprise environment
+- not a substitute for commercial production experience
 
----
+It is a focused portfolio built to show technical depth, system thinking, and execution judgment.
 
-## Featured Projects
+## LinkedIn
 
-🔍 **Network Attack Detection**
-- Isolation Forest anomaly detection model trained on CIC-IDS2017 network traffic data
-- Feature engineering and anomaly scoring using Python and pandas
-- Model evaluation using precision and recall metrics
-
-🚀 **ML Anomaly Detection System**
-- Architecture for deploying anomaly detection models in production environments
-- Covers data ingestion, model inference, and monitoring workflows
-
-📈 **Model Monitoring**
-- Detect anomaly score drift and production data distribution changes
-- Monitoring workflows for maintaining ML model performance
-
----
-
-## Machine Learning Portfolio
-
-| Project | Description | Tools |
-|-------|-------------|------|
-| [Network Attack Detection](https://github.com/benderla/network-attack-detection) | Detect anomalous network traffic using Isolation Forest | Python, Scikit-learn |
-| [ML Anomaly Detection System](https://github.com/benderla/ml-anomaly-detection-system-launch) | End-to-end ML lifecycle from data ingestion to monitoring | Python, pandas, Scikit-learn, Git, Jupyter |
-| [Model Monitoring](https://github.com/benderla/ml-model-monitoring) | Detect anomaly score drift and production data distribution changes | Python, Monitoring |
-
----
-
-## Key Projects
-
-• **Network Attack Detection**  
-Isolation Forest anomaly detection model for identifying suspicious network traffic patterns.
-
-• **ML Anomaly Detection System Launch**  
-System architecture for deploying anomaly detection models in production environments.
-
-• **ML Model Monitoring**  
-Monitoring and drift detection workflows for maintaining ML model performance.
-
----
-
-## Lifecycle Implementation
-
-![ML Lifecycle](ml_lifecyclev3.png)
-
-The repositories in this portfolio represent stages of the ML lifecycle:
-
-Data Preparation & Feature Engineering  
-→ network-attack-detection
-
-Model Development & Evaluation  
-→ network-attack-detection
-
-Deployment Architecture  
-→ ml-anomaly-detection-system-launch
-
-Production Monitoring  
-→ ml-model-monitoring
-
----
-
-### System Overview
-
-The repositories in this portfolio demonstrate an end-to-end anomaly detection workflow for cybersecurity network traffic.
-
-```
-Network Traffic Data
-        ↓
-Feature Engineering
-        ↓
-Isolation Forest Model
-        ↓
-Anomaly Detection
-        ↓
-Model Monitoring
-```
-
-This pipeline shows how network flow data is transformed into features, evaluated by an anomaly detection model, and monitored in production environments for unusual traffic patterns.
-
-This portfolio demonstrates an anomaly detection system for cybersecurity network monitoring.
-
-System flow:
-
-Network Traffic Data  
-→ Feature Engineering  
-→ Isolation Forest Model  
-→ Anomaly Detection  
-→ Model Monitoring
-
----
-
-### Repository Mapping
-
-This portfolio is organized to demonstrate stages of the machine learning lifecycle:
-
-Model Development  
-→ network-attack-detection
-
-Deployment Architecture  
-→ ml-anomaly-detection-system-launch
-
-Production Monitoring  
-→ ml-model-monitoring
-
----
-
-## Core Skills
-
-Machine Learning
-Python • Scikit-learn • Pandas • NumPy
-
-Data Engineering
-SQL • Feature Engineering • Data Pipelines
-
-ML Systems
-Model Monitoring • Drift Detection • ML Lifecycle
-
-## Skills Demonstrated
-
-• Machine learning pipeline development  
-• Anomaly detection modeling  
-• ML system architecture  
-• Production monitoring and drift detection  
-• Data engineering workflows  
-• Technical program management
-
----
-
-## Author
-
-LinkedIn: [https://linkedin.com/leroy_mccoy/](https://www.linkedin.com/in/leroymccoy/)
+- https://linkedin.com/leroy_mccoy/
