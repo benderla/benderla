@@ -1,6 +1,6 @@
 # Hi, I'm Lee
 
-Technical Program Manager focused on ML systems, data, and execution.
+Technical Program Manager at AWS focused on ML systems, data, and execution.
 
 I build and operate ML systems end-to-end, from data and models to deployment and monitoring.
 
