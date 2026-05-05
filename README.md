@@ -1,6 +1,6 @@
 # Hi, I'm Lee
 
-Technical Program Manager at AWS focused on ML systems, data, and execution.
+Data Scientist focused on ML systems, data, and execution.
 
 I build and operate ML systems end-to-end, from data and models to deployment and monitoring.
 
@@ -16,11 +16,10 @@ I build and operate ML systems end-to-end, from data and models to deployment an
 
 ## Featured Projects
 
-### ML Anomaly Detection (End-to-End)
-
-- built and deployed anomaly detection system with API + monitoring 
-- anomaly detection using Isolation Forest  
-- API-based inference and Docker deployment  
+### Network Attack Detection — Flagship Technical Build
+- Built an Isolation Forest anomaly detection system using ~700K CIC-IDS2017 network flow records
+- Added threshold tuning, model evaluation, FastAPI inference, Docker deployment, and visual outputs
+- Demonstrates hands-on ML system build plus TPM-style operational thinking
 
 👉 https://github.com/benderla/network-attack-detection  
 
